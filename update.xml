@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-	<version>2.5.0.4</version>
-	<url>https://github.com/fvz242gmhv-afk/HCEMetter/releases/download/2.5.0.4/2.5.0.4.zip</url>
-	<changelog>https://i.ibb.co/Kz3s01C0/hce-dps-metter-logo-text-1767807217588.jpg</changelog>
-	<mandatory>true</mandatory>
-</item>
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>HCEMetter</title>
+    <description>Most recent changes with link to updates.</description>
+    <language>en</language>
+    <item>
+      <title>HCEMetter v2.5.0.4</title>
+      <description><![CDATA[<a href="https://github.com/fvz242gmhv-afk/HCEMetter/releases/tag/2.5.0.4">View full patch notes on GitHub</a>]]></description>
+      <pubDate>Sun, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/fvz242gmhv-afk/HCEMetter/releases/download/2.5.0.4/2.5.0.4.zip" sparkle:version="2.5.0.4" sparkle:shortVersionString="2.5.0.4" sparkle:os="windows-x64" length="0" type="application/octet-stream" sparkle:edSignature="" sparkle:signature="" />
+    </item>
+  </channel>
+</rss>
