@@ -5,10 +5,10 @@
     <description>Most recent changes with link to updates.</description>
     <language>en</language>
     <item>
-      <title>HCEMetter v2.5.0.5</title>
-      <description><![CDATA[<a href="https://github.com/fvz242gmhv-afk/HCEMetter/releases/tag/2.5.0.5">View full patch notes on GitHub</a>]]></description>
+      <title>HCEMetter v2.5.0.6</title>
+      <description><![CDATA[<a href="https://github.com/fvz242gmhv-afk/HCEMetter/releases/tag/2.5.0.6">View full patch notes on GitHub</a>]]></description>
       <pubDate>Mon, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/fvz242gmhv-afk/HCEMetter/archive/refs/tags/2.5.0.5.zip" sparkle:version="2.5.0.5" sparkle:shortVersionString="2.5.0.5" sparkle:os="windows-x64" length="0" type="application/octet-stream" sparkle:edSignature="" sparkle:signature="" />
+      <enclosure url="https://github.com/fvz242gmhv-afk/HCEMetter/releases/download/2.5.0.6/ABMetter.zip" sparkle:version="2.5.0.6" sparkle:shortVersionString="2.5.0.6" sparkle:os="windows-x64" length="0" type="application/octet-stream" sparkle:edSignature="" sparkle:signature="" />
     </item>
   </channel>
 </rss>
